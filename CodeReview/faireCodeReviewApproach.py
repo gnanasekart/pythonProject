@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 response = openai.Completion.create(
     engine="gpt-3.5-turbo",
