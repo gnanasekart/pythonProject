@@ -11,7 +11,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAIEmbeddings
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "sk-proj-"
 
 st.session_state.messages = []
 st.session_state.chat_history = []
